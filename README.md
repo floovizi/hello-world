@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+HI
+
+I am new to Github and just committing my first change
+Cheers
